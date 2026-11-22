@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "cobblestone_bricks",
+  "version": "${version}",
+  "name": "Cobblestone Bricks",
+  "description": "Adds cobblestone brick and mossy cobblestone brick building blocks.",
+  "authors": ["Fiverka"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["org.example.Main"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

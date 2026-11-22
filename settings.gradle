@@ -1,8 +1,8 @@
 pluginManagement {
     repositories {
+        maven { url = 'https://maven.fabricmc.net/' }
         gradlePluginPortal()
-        maven { url = 'https://maven.minecraftforge.net/' }
     }
 }
 
-rootProject.name = 'cobblestone-bricks'
+rootProject.name = 'cobblestone-bricks-fabric-1.21.1'
