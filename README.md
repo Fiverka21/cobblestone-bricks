@@ -1,2 +1,3 @@
-# cobblestone-bricks
-minecraft mod that adds bricks made out of cobblestone
+# Cobblestone Bricks
+
+NeoForge 1.21.1 port of Cobblestone Bricks.
