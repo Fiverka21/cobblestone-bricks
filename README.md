@@ -1,2 +1,3 @@
-# cobblestone-bricks
-minecraft mod that adds bricks made out of cobblestone
+# Cobblestone Bricks
+
+Fabric 1.20.1 port of Cobblestone Bricks.
