@@ -1,0 +1,40 @@
+# Gradle and Forge
+.gradle/
+build/
+run/
+run-data/
+logs/
+*.log
+src/generated/
+
+# Keep the Gradle wrapper JAR under version control.
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.factorypath
+.project
+.settings/
+.apt_generated/
+bin/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Visual Studio Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

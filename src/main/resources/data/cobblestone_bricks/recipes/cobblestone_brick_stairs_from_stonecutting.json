@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cobblestone_bricks:cobblestone_bricks"
+  },
+  "result": "cobblestone_bricks:cobblestone_brick_stairs",
+  "count": 1
+}

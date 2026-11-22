@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cobblestone_bricks:cobblestone_bricks"
+    }
+  },
+  "result": {
+    "item": "cobblestone_bricks:cobblestone_brick_stairs",
+    "count": 4
+  }
+}
