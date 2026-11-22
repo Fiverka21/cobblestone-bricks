@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cobblestone_bricks:cobblestone_bricks",
+    "cobblestone_bricks:cobblestone_brick_stairs",
+    "cobblestone_bricks:mossy_cobblestone_bricks",
+    "cobblestone_bricks:mossy_cobblestone_brick_stairs"
+  ]
+}
